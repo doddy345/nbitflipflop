@@ -1,4 +1,4 @@
 nbitflipflop
 ============
 
-Logic Gate Simulator
+Logic Gate Simulator for the browser, free.
